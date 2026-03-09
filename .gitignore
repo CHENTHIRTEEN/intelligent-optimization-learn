@@ -1,0 +1,17 @@
+# Python cache and build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+
+# uv-generated files
+uv.lock
+.python-version
